@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8287310f-4421-4eb2-a862-185b1c214bd3" name="Changes" comment="punto a resuelto">
+    <list default="true" id="8287310f-4421-4eb2-a862-185b1c214bd3" name="Changes" comment="punto b resuelto">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -57,11 +57,19 @@
       <option name="project" value="LOCAL" />
       <updated>1678456703089</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="punto b resuelto">
+      <created>1678460306839</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678460306839</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="punto a resuelto" />
-    <option name="LAST_COMMIT_MESSAGE" value="punto a resuelto" />
+    <MESSAGE value="punto b resuelto" />
+    <option name="LAST_COMMIT_MESSAGE" value="punto b resuelto" />
   </component>
 </project>
