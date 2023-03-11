@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8287310f-4421-4eb2-a862-185b1c214bd3" name="Changes" comment="punto c resuelto">
-      <change afterPath="$PROJECT_DIR$/src/Main2.java" afterDir="false" />
+    <list default="true" id="8287310f-4421-4eb2-a862-185b1c214bd3" name="Changes" comment="punto 2 resuelto">
       <change afterPath="$PROJECT_DIR$/src/Main3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PUNTO B">
+  <component name="RunManager" selected="Application.PUNTO Ba">
     <configuration name="PUNTO A" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="TP N5 DAMIAN VILLALBA" />
@@ -56,7 +56,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PUNTO Ba" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main2" />
+      <module name="TP N5 DAMIAN VILLALBA" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Temp\numeros.txt.txt +" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.PUNTO Ba" />
       <item itemvalue="Application.PUNTO B" />
       <item itemvalue="Application.PUNTO A" />
     </list>
@@ -91,14 +100,22 @@
       <option name="project" value="LOCAL" />
       <updated>1678551220611</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="punto 2 resuelto">
+      <created>1678559642754</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678559642754</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="punto a resuelto" />
     <MESSAGE value="punto b resuelto" />
     <MESSAGE value="punto c resuelto" />
-    <option name="LAST_COMMIT_MESSAGE" value="punto c resuelto" />
+    <MESSAGE value="punto 2 resuelto" />
+    <option name="LAST_COMMIT_MESSAGE" value="punto 2 resuelto" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
